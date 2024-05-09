@@ -29,8 +29,8 @@ ToDoList.prototype.displayTasks = function () {
     console.log("Completed Tasks:");
     this.completedTasks.forEach((task, index) => {
         console.log(`${index + 1}. ${task}`);
-//     });
-// }
+    });
+}
 
 // examples
 let myTodoList = new TodoList();
