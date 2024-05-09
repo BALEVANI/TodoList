@@ -33,9 +33,9 @@ ToDoList.prototype.displayTasks = function () {
 }
 
 // examples
-let myTodoList = new TodoList();
-myTodoList.addTask("Finish homework");
-myTodoList.addTask("Buy Food and Clothes");
-myTodoList.addTask("Finsih Reading");
-myTodoList.completeTask(1);
-myTodoList.displayTasks();
+// let myTodoList = new TodoList();
+// myTodoList.addTask("Finish homework");
+// myTodoList.addTask("Buy Food and Clothes");
+// myTodoList.addTask("Finsih Reading");
+// myTodoList.completeTask(1);
+// myTodoList.displayTasks();
